@@ -1,3 +1,3 @@
-# Eliminacao_Gauss
+# Eliminacão de Gauss
 
 Implementaçao da Eliminação de Gauss
